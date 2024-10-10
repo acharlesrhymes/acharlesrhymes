@@ -9,6 +9,7 @@ I specialize in creating stunning user experiences with a focus on landing pages
 **Pathway Project:** A CSS-based project aimed at improving UI component styling.
 
 🌱 **I’m currently learning:**
+
 Exploring AI integrations for better user experiences in web applications.
 
 📫 **How to reach me:**  

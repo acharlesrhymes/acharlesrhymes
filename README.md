@@ -11,7 +11,7 @@ I specialize in creating stunning user experiences with a focus on landing pages
 
 📫 **How to reach me:**  
 - [LinkedIn](https://www.linkedin.com/in/aaroncharlesrhymes)
-- [Portfolio Website](https://fiverr.com/technore)
+- [Portfolio Website](https://www.aaroncharlesrhymes.com/)
 
 Let's connect and create something amazing together!
 <!--

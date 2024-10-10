@@ -6,10 +6,10 @@
 I specialize in creating stunning user experiences with a focus on landing pages and UI design using Figma and React. With a background in visual communication design and a passion for solving complex design challenges, I bridge the gap between design and development.
 
 🔭 **Current Projects:**  
-- **Pathway Project:** A CSS-based project aimed at improving UI component styling.
+**Pathway Project:** A CSS-based project aimed at improving UI component styling.
 
 🌱 **I’m currently learning:**
-- Exploring AI integrations for better user experiences in web applications.
+Exploring AI integrations for better user experiences in web applications.
 
 📫 **How to reach me:**  
 - [LinkedIn](https://www.linkedin.com/in/aaroncharlesrhymes)

@@ -14,6 +14,8 @@ I specialize in creating stunning user experiences with a focus on landing pages
 - [Portfolio Website](https://www.aaroncharlesrhymes.com/)
 
 Let's connect and create something amazing together!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!--
 **acharlesrhymes/acharlesrhymes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

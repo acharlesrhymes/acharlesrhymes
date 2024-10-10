@@ -15,7 +15,7 @@ I specialize in creating stunning user experiences with a focus on landing pages
 
 😄 **Pronouns:** 
 
-He/His/Him
+- He/His/Him
 
 Let's connect and create something amazing together!
 <!--

@@ -7,14 +7,15 @@ I specialize in creating stunning user experiences with a focus on landing pages
 
 🔭 **Current Projects:**  
 - **Pathway Project:** A CSS-based project aimed at improving UI component styling.
+
+🌱 **I’m currently learning:**
 - Exploring AI integrations for better user experiences in web applications.
 
 📫 **How to reach me:**  
 - [LinkedIn](https://www.linkedin.com/in/aaroncharlesrhymes)
 - [Portfolio Website](https://www.aaroncharlesrhymes.com/)
 
-😄 **Pronouns:** 
-
+😄 **Pronouns:**
 - He/His/Him
 
 Let's connect and create something amazing together!

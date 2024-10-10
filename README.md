@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Aaron Charles-Rhymes!
 
-##UX Designer | Frontend Developer | Tech Enthusiast
+## UX Designer | Frontend Developer | Tech Enthusiast
 
-###🌟 About Me:
+### 🌟 About Me:
 
 I specialize in creating stunning user experiences with a focus on landing pages and UI design using Figma and React. With a background in visual communication design and a passion for solving complex design challenges, I bridge the gap between design and development.
 <!--

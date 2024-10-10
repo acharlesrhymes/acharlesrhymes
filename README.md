@@ -17,13 +17,6 @@ Exploring AI integrations for better user experiences in web applications.
 - [LinkedIn](https://www.linkedin.com/in/aaroncharlesrhymes)
 - [Portfolio Website](https://www.aaroncharlesrhymes.com/)
 
-😄 **Pronouns:**
-- He/His/Him
-
-⚡ **Fun fact:**
-- I like Anime
-- I Love Tech
-
 Let's connect and create something amazing together!
 <!--
 **acharlesrhymes/acharlesrhymes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 **Product Designer | Frontend Developer | Tech Enthusiast**
 
----
+--
 
 <div align="center">
     <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=acharlesrhymes&show_icons=true&theme=default" />
@@ -21,7 +21,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
----
+--
 
 ## 🌟 About Me
 I specialize in creating stunning user experiences with a focus on landing pages and UI design using Figma and React. With a background in visual communication design and a passion for solving complex design challenges, I bridge the gap between design and development.

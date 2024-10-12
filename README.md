@@ -28,6 +28,7 @@ I specialize in creating stunning user experiences with a focus on landing pages
 
 ## 🔭 Current Projects:
 - **Pathway Project:** A CSS-based project aimed at improving UI component styling.
+- **Crunchyroll Landing Page Redesign:** A React-based project
 
 ## 🌱 I’m currently learning:
 - Exploring AI integrations for better user experiences in web applications.

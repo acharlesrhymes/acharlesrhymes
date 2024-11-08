@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aaron Charles-Rhymes!
 
-**Product Designer | Frontend Developer | Tech Enthusiast**
+**Product Designer | Web Designer | Frontend Developer | Tech Enthusiast**
 
 ---
 

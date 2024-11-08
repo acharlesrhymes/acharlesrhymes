@@ -25,7 +25,7 @@
 
 ---
 
-### Education:
+## Education:
 
 ![San Francisco State University](https://img.shields.io/badge/University-San%20Francisco%20State%20University-4B2E83?style=for-the-badge&logo=San-Francisco-State-University&logoColor=FFCC33)
 

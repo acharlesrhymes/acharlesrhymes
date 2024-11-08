@@ -27,7 +27,7 @@
 
 ### Education:
 
-![San Francisco State University](https://img.shields.io/badge/University-San%20Francisco%20State%20University-4B2E83?style=for-the-badge&logo=San-Francisco-State-University&logoColor=FFCC33)
+![SFSU](https://img.shields.io/badge/University-SFSU-4B2E83?style=for-the-badge&logo=San-Francisco-State-University&logoColor=FFCC33)
 
 ## 🌟 About Me
 I specialize in creating stunning user experiences with a focus on landing pages and UI design using Figma and React. With a background in visual communication design and a passion for solving complex design challenges, I bridge the gap between design and development.

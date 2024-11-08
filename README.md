@@ -23,6 +23,10 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
+## Education:
+
+![San Francisco State University](https://img.shields.io/badge/University-San%20Francisco%20State%20University-4B2E83?style=for-the-badge&logo=San-Francisco-State-University&logoColor=FFCC33)
+
 ---
 
 ## Education:

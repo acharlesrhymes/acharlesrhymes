@@ -25,7 +25,7 @@
 
 ### Education:
 
-![SFSU](https://img.shields.io/badge/SFSU-4B2E83?style=flat-square&logo=San-Francisco-State-University&logoColor=FFCC33&labelColor=black)
+<img src="YOUR_SFSU_LOGO_URL" alt="SFSU Logo" width="20"/> ![SFSU](https://img.shields.io/badge/SFSU-4B2E83?style=flat-square&labelColor=black)
 
 ---
 

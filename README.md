@@ -25,7 +25,7 @@
 
 ### Education:
 
-[<img src="https://raw.githubusercontent.com/acharlesrhymes/assets/main/sfimg/sfsulogo.png" alt="SFSU Logo" width="20"/> ![SFSU](https://img.shields.io/badge/SFSU-4B2E83?style=flat-square&labelColor=black)](https://raw.githubusercontent.com/acharlesrhymes/assets/main/sfimg/sfsulogo.png)
+![San Francisco State University](https://img.shields.io/badge/University-San%20Francisco%20State%20University-4B2E83?style=for-the-badge&logo=San-Francisco-State-University&logoColor=FFCC33)
 
 ---
 

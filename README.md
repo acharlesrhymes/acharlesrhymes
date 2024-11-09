@@ -25,7 +25,7 @@
 
 ### Education:
 
-![Static Badge](https://img.shields.io/badge/Diablo%20Valley%20College-badge?style=for-the-badge&logo=googlescholar&logoColor=%23FFFFFF&label=JC%20College&labelColor=%23000000&color=%23007550)
+![Static Badge](https://img.shields.io/badge/Diablo%20Valley%20College-badge?style=for-the-badge&logo=googlescholar&logoColor=white&color=%20%23007550)
 ![Static Badge](https://img.shields.io/badge/San%20Francisco%20State%20University-badge?style=for-the-badge&logo=googlescholar&logoColor=%23C99700&label=College&labelColor=%23231161&color=%23231161)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 

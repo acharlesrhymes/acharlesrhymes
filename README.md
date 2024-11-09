@@ -43,7 +43,7 @@
 ---
 
 ## 🌟 About Me
-I specialize in creating stunning user experiences with a focus on landing pages and UI design using Figma and React. With a background in visual communication design and a passion for solving complex design challenges, I bridge the gap between design and development.
+I specialize in creating stunning user experiences with a focus on landing pages and UI design using Figma and JavaScript Frameworks like React and Next.js. With a background in visual communication design and a passion for solving complex design challenges, I bridge the gap between design and development.
 
 ## 🔭 Current Projects:
 - **Pathway Project:** A CSS-based project aimed at improving UI component styling.

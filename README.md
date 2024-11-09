@@ -25,13 +25,15 @@
 
 ### Education:
 
-![Diablo Valley College](https://img.shields.io/badge/Diablo%20Valley%20College-006341?style=for-the-badge&labelColor=black&logoColor=white)
-![San Francisco State University](https://img.shields.io/badge/University-San%20Francisco%20State%20University-4B2E83?style=for-the-badge&logo=San-Francisco-State-University&logoColor=FFCC33)
+![Static Badge](https://img.shields.io/badge/Diablo%20Valley%20College-badge?style=for-the-badge&logo=googlescholar&logoColor=%23FFFFFF&label=JC%20College&labelColor=%23000000&color=%23007550)
+![Static Badge](https://img.shields.io/badge/San%20Francisco%20State%20University-badge?style=for-the-badge&logo=googlescholar&logoColor=%23C99700&label=College&labelColor=%23231161&color=%23231161)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 
 ### Degrees:
 
 ![Static Badge](https://img.shields.io/badge/B.S.Degree-Visual%20Communication%20Design-blue?style=for-the-badge&label=B.S.Degree&labelColor=%23C99700&color=%23463077)
+![Static Badge](https://img.shields.io/badge/Google%20UX%20Design%20Professional-badge?style=for-the-badge&logo=Coursera&label=Coursera&labelColor=%230056D2&color=%23000000)
+![Static Badge](https://img.shields.io/badge/Google%20AI%20Essentials-badge?style=for-the-badge&logo=Coursera&label=Coursera&labelColor=%230056D2&color=%23000000)
 
 ### Roles Wanted:
 

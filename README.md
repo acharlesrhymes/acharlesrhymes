@@ -26,19 +26,15 @@
 ### Education:
 
 ![Static Badge](https://img.shields.io/badge/Diablo%20Valley%20College-badge?style=for-the-badge&logo=googlescholar&logoColor=white&color=%20%23007550)
-![Static Badge](https://img.shields.io/badge/San%20Francisco%20State%20University-badge?style=for-the-badge&logo=googlescholar&logoColor=%23C99700&label=College&labelColor=%23231161&color=%23231161)
+![Static Badge](https://img.shields.io/badge/San%20Francisco%20State%20University-badge?style=for-the-badge&logo=googlescholar&logoColor=%23C99700&color=%23231161)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 
-### Degrees:
+### Degrees and Certificates:
 
-![Static Badge](https://img.shields.io/badge/B.S.Degree-Visual%20Communication%20Design-blue?style=for-the-badge&label=B.S.Degree&labelColor=%23C99700&color=%23463077)
+![Static Badge](https://img.shields.io/badge/A.A.%20Degree%3A%20Art%20Digital%20Media-badge?style=for-the-badge&logo=googlescholar&logoColor=%23FFFFFF&color=%20%23007550)
+![Static Badge](https://img.shields.io/badge/B.S.%20Degree%3A%20Visual%20Communication%20Design-badge?style=for-the-badge&logo=googlescholar&logoColor=%23C99700&color=%23231161)
 ![Static Badge](https://img.shields.io/badge/Google%20UX%20Design%20Professional-badge?style=for-the-badge&logo=Coursera&label=Coursera&labelColor=%230056D2&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/Google%20AI%20Essentials-badge?style=for-the-badge&logo=Coursera&label=Coursera&labelColor=%230056D2&color=%23000000)
-
-### Roles Wanted:
-
-![UX Designer](https://img.shields.io/badge/Role-UX%20Designer-007ACC?style=for-the-badge)
-![Product Designer](https://img.shields.io/badge/Role-Product%20Designer-007ACC?style=for-the-badge)
 
 ---
 

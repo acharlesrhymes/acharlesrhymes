@@ -28,8 +28,15 @@
 ![Diablo Valley College](https://img.shields.io/badge/Diablo%20Valley%20College-006341?style=for-the-badge&labelColor=black&logoColor=white)
 ![San Francisco State University](https://img.shields.io/badge/University-San%20Francisco%20State%20University-4B2E83?style=for-the-badge&logo=San-Francisco-State-University&logoColor=FFCC33)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
+
+### Degrees:
+
+![Static Badge](https://img.shields.io/badge/B.S.Degree-Visual%20Communication%20Design-blue?style=for-the-badge&label=B.S.Degree&labelColor=%23C99700&color=%23463077)
+
+### Roles Wanted:
+
 ![UX Designer](https://img.shields.io/badge/Role-UX%20Designer-007ACC?style=for-the-badge)
-![Product Designer](https://img.shields.io/badge/Role-Product%20Designer-007ACC??style=for-the-badge)
+![Product Designer](https://img.shields.io/badge/Role-Product%20Designer-007ACC?style=for-the-badge)
 
 ---
 

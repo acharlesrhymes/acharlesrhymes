@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aaron Charles-Rhymes!
 
-**UX & Product Designer | Web Designer | Frontend Developer | Vibe Coder | Tech Enthusiast**
+**UX & Product Designer | Web Designer | Frontend Developer | Vibe Coder | Tech Enthusiast | AI Enthusiast**
 
 ---
 
